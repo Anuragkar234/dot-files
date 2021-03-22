@@ -1,2 +1,2 @@
 # dot-files
-linux system
+Ubuntu-i3wm
